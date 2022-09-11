@@ -280,133 +280,180 @@ amb_combo,,q5b,Could you please tell me how important is religion in your life?,
 amb_combo,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_antigua2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_antigua2016,,q5bn,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_argentina2010,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_argentina2010,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_argentina2010,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_argentina2010,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_argentina2010,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_argentina2012,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_argentina2012,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_argentina2012,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_argentina2012,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_argentina2012,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_argentina2014,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_argentina2014,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_argentina2014,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_argentina2014,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_argentina2016,,cp6,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
+amb_argentina2016,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_argentina2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_argentina2016,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_argentina2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_argentina2018,attend5_0_1_12_52_104,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_argentina2018,attend5_0_1_12_52_104,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_argentina2018,,q3cn,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
 amb_argentina2018,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_argentina2018,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_bolivia2010,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_bolivia2010,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_bolivia2010,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_bolivia2010,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_bolivia2010,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_bolivia2012,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_bolivia2012,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_bolivia2012,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_bolivia2012,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_bolivia2012,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_bolivia2014,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_bolivia2014,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_bolivia2014,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_bolivia2014,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_bolivia2016,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_bolivia2016,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_bolivia2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_bolivia2016,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_bolivia2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_bolivia2018,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_bolivia2018,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_bolivia2018,,q3cn,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
 amb_bolivia2018,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_bolivia2018,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_brazil2016,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_brazil2016,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_brazil2016,,q3cn,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
 amb_brazil2016,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_brazil2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_brazil2018,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_brazil2018,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_brazil2018,,q3cn,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
 amb_brazil2018,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_brazil2018,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_canada2010,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_canada2010,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_canada2010,,religpew,"What is your religion, if any?",1 Catholic 2 Protestant 3 Mormon 4 Eastern 5 Jewish 6 Muslim 7 Buddhist 8 Hindu 9 Atheist 10 Agnostic 11 Nothing in particular 12 Something else
 amb_canada2010,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_canada2012,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_canada2012,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_canada2012,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_canada2014,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_canada2014,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_canada2014,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_canada2014,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
 amb_canada2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_canada2016,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_canada2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_chile2010,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_chile2010,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_chile2010,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_chile2010,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_chile2010,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_chile2012,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_chile2012,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_chile2012,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_chile2012,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_chile2012,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_chile2014,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_chile2014,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_chile2014,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_chile2014,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
 amb_chile2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_chile2016,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_chile2016,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_chile2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_chile2016,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_chile2018,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_chile2018,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_chile2018,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_chile2018,,q3cn,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
 amb_chile2018,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
-amb_colombia2009,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_colombia2009,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_colombia2009,,q3,"What is your religion, if any?",1 Catholic 2 Protestant 3 Other Non-Christian 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Atheist
 amb_colombia2009,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_colombia2011,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_colombia2011,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_colombia2011,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_colombia2011,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_colombia2011,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_colombia2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_colombia2016,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_colombia2016,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_colombia2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_colombia2016,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_costarica2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_costarica2016,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_costarica2016,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_costarica2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_costarica2016,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_costarica2018,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_costarica2018,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_costarica2018,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_costarica2018,,q3cn,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
 amb_costarica2018,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_dominica2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_dominica2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_ecuador2014,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_ecuador2014,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_ecuador2014,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_ecuador2014,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
 amb_ecuador2018,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_ecuador2018,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_ecuador2018,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_ecuador2018,,q3cn,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
 amb_ecuador2018,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_grenada2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_grenada2016,,q5bn,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-amb_panama2018,,,,
-amb_panama2018,,,,
-amb_suriname2012,,,,
-amb_trinidad2012,,,,
-amb_uruguay2018,,,,
-amb_uruguay2018,,,,
-amb_us2012,,,,
-amb_us2012,,,,
+amb_guyana2016,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_guyana2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
+amb_guyana2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_panama2016,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_panama2016,,q3cn,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_panama2016,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
+amb_panama2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_panama2018,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_panama2018,,q3cn,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_panama2018,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
+amb_panama2018,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_stkittsnevis2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
+amb_stkittsnevis2016,,q5bn,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_stlucia2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
+amb_stlucia2016,,q5bn,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_stvincent2016,,q3c,"What is your religion, if any?",
+amb_stvincent2016,,q5bn,Could you please tell me how important is religion in your life?,
+amb_suriname2010,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_suriname2010,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_suriname2010,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
+amb_suriname2010,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_suriname2012,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_suriname2012,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_suriname2012,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
+amb_suriname2012,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_trinidad2010,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_trinidad2010,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_trinidad2010,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
+amb_trinidad2010,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_trinidad2012,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_trinidad2012,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_trinidad2012,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
+amb_trinidad2012,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_uruguay2016,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_uruguay2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_uruguay2016,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
+amb_uruguay2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_uruguay2018,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_uruguay2018,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_uruguay2018,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
+amb_uruguay2018,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
 amb_us2010,,cp6,How often do you attend religious services?,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
 amb_us2010,,religpew,"What is your religion, if any?",1 Catholic 2 Protestant 3 Mormon 4 Eastern 5 Jewish 6 Muslim 7 Buddhist 8 Hindu 9 Atheist 10 Agnostic 11 Nothing in particular 12 Something else
 amb_us2010,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_us2012,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_us2012,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_us2012,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_us2014,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_us2014,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_us2014,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_us2016,,a5a,1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never,
+amb_us2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_us2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_us2018,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
-amb_us2018,,q3cn,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_us2018,,q3cn,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 6 Mormon 7 Traditional 10 Jewish 11 Agnostic/Atheist 12 Jehovah's Witness
 amb_us2018,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_venezuela2012,,,,
-amb_venezuela2012,,,,
-amb_costarica2016,,,,
+amb_venezuela2010,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_venezuela2010,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_venezuela2010,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
+amb_venezuela2010,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_venezuela2012,,q3c,"What is your religion, if any?",
+amb_venezuela2012,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,
+amb_venezuela2012,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_venezuela2014,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_venezuela2014,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_venezuela2014,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_venezuela2016,,cp6,"Please tell me if you attend meetings of these organizations at least once a week, once or twice a month, once or twice a year, or never. Meetings of any religious organization? Do you attend them…",1 Once a week 2 Once or twice a month 3 Once or twice a year 4 Never
+amb_venezuela2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
+amb_venezuela2016,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
+amb_venezuela2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
+amb_venezuela2018,,,,
