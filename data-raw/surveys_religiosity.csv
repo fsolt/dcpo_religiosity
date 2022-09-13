@@ -456,4 +456,37 @@ amb_venezuela2016,,cp6,"Please tell me if you attend meetings of these organizat
 amb_venezuela2016,,q3c,"What is your religion, if any?",1 Catholic 2 Protestant 3 Eastern 4 None 5 Evangelical 7 Traditional 11 Agnostic/Atheist 77 Other
 amb_venezuela2016,attend5_0_1_12_52_104,q5a,How often do you attend religious services?,1 More than once a week 2 Once a week 3 Once a month 4 Once or twice a year 5 Never .c NA
 amb_venezuela2016,,q5b,Could you please tell me how important is religion in your life?,1 Very important 2 Somewhat important 3 Not very important 4 Not at all important
-amb_venezuela2018,,,,
+arabb1,,q713,Do you pray?,1 yes 2 no
+arabb1,,q711,religion,1 Muslim 2 Christian 3 Sunni 4 Shia 5 Druze 100 NA
+arabb2,,q6061,"Religious leaders (imams, preachers, priests) should not interfere in voters’ decisions in elections. ",1 I strongly agree 2 I agree 3 I disagree 4 I strongly disagree
+arabb2,,q6063,"Religious leaders (imams, preachers, priests) should have influence over government decisions. ",1 I strongly agree 2 I agree 3 I disagree 4 I strongly disagree
+arabb2,,q6101,Do you pray daily?,1 Always 2 Most of the time 3 Sometimes 4 Rarely 
+arabb2,,q6102,Do you Fast during Ramadan/Fast the 40 days of Lent for Christians.,1 Always 2 Most of the time 3 Sometimes 4 Rarely 
+arabb2,,q6104,Do you Attend religious lessons in mosques or churches.,1 Always 2 Most of the time 3 Sometimes 4 Rarely 
+arabb2,attend4_5_15_30_52,q6105,Do you Attend Friday prayer/Sunday services.,1 Always 2 Most of the time 3 Sometimes 4 Rarely 
+arabb2,,q6106,Do you Listen to or read the Quran/the Bible.,1 Always 2 Most of the time 3 Sometimes 4 Rarely 
+arabb2,,q6107,Do you Read religious books,1 Always 2 Most of the time 3 Sometimes 4 Rarely 
+arabb2,,q1012,religion,0 None 1 Muslim 2 Christian 3 Nonspecific 3001 Khaki 10001 Jewish 99999 refused
+arabb2,,q609,"In general, you would describe yourself as ... ? ",1 Religious 2 Somewhat religious 3 Not religious
+arabb3,,q6061,"Religious leaders (imams, preachers, priests) should not interfere in voters’ decisions in elections. ",1 I strongly agree 2 I agree 3 I disagree 4 I strongly disagree
+arabb3,,q6063,"Religious leaders (imams, preachers, priests) should have influence over government decisions. ",1 I strongly agree 2 I agree 3 I disagree 4 I strongly disagree
+arabb3,,q6101,Do you pray daily?,1 Always 2 Most of the time 3 Sometimes 4 Rarely 
+arabb3,attend4_5_15_30_52,q6105,Do you Attend Friday prayer/Sunday services.,1 Always 2 Most of the time 3 Sometimes 4 Rarely 
+arabb3,,q6106,Do you Listen to or read the Quran/the Bible.,1 Always 2 Most of the time 3 Sometimes 4 Rarely 
+arabb3,,q609,"In general, you would describe yourself as ... ? ",1 Religious 2 Somewhat religious 3 Not religious
+arabb3,,q1012,religion,0 None 1 Muslim 2 Christian 3 Other 4 Jewish 
+arabb4,,q6061,"Religious leaders (imams, preachers, priests) should not interfere in voters’ decisions in elections. ",1 I strongly agree 2 I agree 3 I disagree 4 I strongly disagree
+arabb4,,q6063,"Religious leaders (imams, preachers, priests) should have influence over government decisions. ",1 I strongly agree 2 I agree 3 I disagree 4 I strongly disagree
+arabb4,,q6101,Do you pray daily?,1 Always 2 Most of the time 3 Sometimes 4 Rarely 
+arabb4,attend4_5_15_30_52,q6105,Do you Attend Friday prayer/Sunday services.,1 Always 2 Most of the time 3 Sometimes 4 Rarely 
+arabb4,,q1012,religion,0 None 1 Muslim 2 Christian 3 Other 4 Jewish 
+arabb4,,q609,"In general, you would describe yourself as ... ? ",1 Religious 2 Somewhat religious 3 Not religious
+arabb5,,q1012,religion,0 None 1 Muslim 2 Christian 3 Other 4 Jewish 
+arabb5,,q609,"In general, you would describe yourself as ... ? ",1 Religious 2 Somewhat religious 3 Not religious
+arabb5,,q609a,How often do you pray? ,1 Never 2 At least once a month 3 Once a week 4 Several times a week 5 Once a day 6 Five times a day
+arabb61,,q1012,religion,1 Muslim 2 Christian 3 Something else 4 No religion 5 Other
+arabb61,,q609,"In general, you would describe yourself as ... ? ",1 Religious 2 Somewhat religious 3 Not religious
+arabb62,,q1012,religion,1 Muslim 2 Christian 3 Something else 4 No religion 5 Other
+arabb62,,q609,"In general, you would describe yourself as ... ? ",1 Religious 2 Somewhat religious 3 Not religious
+arabb63,,q1012,religion,1 Muslim 2 Christian 3 Something else 4 No religion 5 Other
+arabb63,,q609,"In general, you would describe yourself as ... ? ",1 Religious 2 Somewhat religious 3 Not religious
